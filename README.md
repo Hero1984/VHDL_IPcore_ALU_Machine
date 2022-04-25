@@ -28,8 +28,10 @@ Creat Xilinx Vivado IP Integrator, design an Arithmetic Execution Unit (AEU) sim
 
 
 ## Version History
-  ###    3/07/22 v0.1  Published.
-  ###    4/25/22 ReadME UPdate  
+  ####vesion
+  *   3/07/22 v0.1  Published.
+  ####ReadME Update
+  *   4/25/22 ReadME UPdate  
 
 ## Acknowledgments
 
