@@ -1,4 +1,4 @@
-# Xilinx_IPcore_ALU_Machine
+# VHDL_IPcore_ALU_Machine
 
 Digital Logic System Design Using Vivado IP Integrator, IP Catalog Components and User Designed IP
 
